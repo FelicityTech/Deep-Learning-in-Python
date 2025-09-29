@@ -13,7 +13,7 @@ Welcome to the Deep Learning in Python project! This repository contains resourc
 
 1. Clone the repository:
     ```bash
-    ggit clone https://github.com/FelicityTech/Deep-Learning-in-Python.git
+    git clone https://github.com/FelicityTech/Deep-Learning-in-Python.git
     ```
 2. Install dependencies:
     ```bash
